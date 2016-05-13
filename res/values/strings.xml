@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World!</string>
+    <string name="app_name">Timewarp</string>
+    <string name="labelStart">Start</string>
+    <string name="labelRunToStop">Run Until Stopped</string>
+    <string name="labelStop">Stop</string>
+	<string name="warp_service_started">1</string>
+	<string name="warp_service_stopped">2</string>
+	<string name="warp_service_label">warp service</string>
+	<string name="bind_service">Bind Service</string>
+	<string name="unbind_service">Unbind Service</string>
+	<string name="local_service_binding">Local Service Binding</string>
+	<string name="local_service_connected">Local Service Connected</string>
+	<string name="local_service_disconnected">Local Service Disconnected</string>
+	<string name="local_service_label">Local Service</string>
+	<string name="local_service_started">Local Service Started</string>
+	<string name="local_service_stopped">Local Service Stopped</string>
+</resources>
